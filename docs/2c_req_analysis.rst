@@ -18,13 +18,14 @@ Given our improved understanding of the portal’s potential end-users over the 
 Objectives
 ==========
 
-During the requirements KLL will be focusing on
+During the requirements gathering exercise, KLL will be focusing on
 
-**1. Testing and validating our assumptions about the end users of our tool, and their data needs**
+**1. Testing and validating our assumptions about "end users" and their information needs**
 
   - Who are these users and where do they work (CSOs, INGOs, local and central governments),
   - How similar/different are their data needs (using/analysing data for planning vs. facilitating data collection)?
-  - Where did they look for data in the past? Is it really mayors and elected representatives that will be the 'primary' end users of the system? Or do they assign someone else to carry out data related tasks for them?
+  - Where did they look for data in the past?
+  - How do they look for this data? Is it really mayors and elected representatives that will be doing the 'looking'? Or do they assign someone else to carry out data related tasks for them?
   - Why are they looking for data in the first place? Where does the demand for this data originate?
 
     - regional projects such as WASH planning, literacy programs.
@@ -33,8 +34,28 @@ During the requirements KLL will be focusing on
   - What is the nature of the data that they're looking for? What are some commonly pursued themes (socio economic data, sanitation data, etc)?
 
 
-**2. Test and validating our assumptions about the end users' capacity building and training needs**
+**2. Testing and validating our assumptions about end users' capacity building and training needs**
 
   - Are end users actually capable of looking for, and arriving at the data they need?
   - Are end-users capable of correctly interpreting and/or consuming the data they arrive at?
   - Do they trust the information? If not why?
+
+Approach
+========
+
+In order to arrive at system needs, we will be using a combination of tools and approaches:
+
+1. Contextual interviews with CSOs, Local Government officials etc., i.e interviews & observation conducted “in context” with real people dealing with the real problems, will help us:
+
+  - Understand their data priorities,
+  - Understand their technical abilities when dealing with similar applications,
+  - Identify current challenges in using our system, and possible enhancements to address the same
+
+
+2. Heuristic user interface evaluation, based on principles of
+
+  - learnability (how quickly will users be able to learn how to use the portal),
+  - efficiency (how quickly can users arrive at what they want) and,
+  - safety (what are features that are prone to slips, lapses or mistakes)
+
+  will help us identify potential problems in the current interface
