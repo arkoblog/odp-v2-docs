@@ -5,7 +5,7 @@ Project activities
 For Phase II, the following activities will be carried out:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    2b_admin_remapping
    2c_req_analysis

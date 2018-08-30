@@ -7,7 +7,7 @@ Welcome to Open Data Portal - Phase II's documentation!
 =======================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    1_introduction
    2_project_activities
