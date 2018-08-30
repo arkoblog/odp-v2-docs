@@ -10,7 +10,7 @@ Through a series of contextual interviews, i.e interviews with real people worki
 
 1. **Test and validate our assumptions about who our end users actually are**.
 
-  - Who are these users and where do they work (CSOs, INGOs, local and central governments),
+  - Who are these users and where do they work (CSOs, INGOs, local and central governments)?
   - How similar/different are their data needs (using/analysing data for planning vs. facilitating data collection)?
   - What is the nature of the data that they're looking for? What are some commonly pursued themes (socio economic data, sanitation data, etc)?
 
@@ -80,10 +80,10 @@ After the completion of the user sense-making and the interface evaluation phase
 
 1. Contextual interviews and focused group discussions in the user sense-making stage,
 2. Results from the heuristic evaluation exercise.
-3. Feedback received when demonstrating the tool to different end users,
-4. Messages received directly through the app through FB Messenger,
+3. Feedback received when demonstrating the tool to different end users.
+4. Messages received directly through the app through FB Messenger.
 
-After this, taking into account our improved of end-users, their informational needs, as well as technical abilities, we will work on identifying:
+After this, taking into account our improved understanding of end-users, their informational needs, as well as technical abilities, we will work on identifying:
 
 1. Usability related improvements that will need to be incorporated to the present system,
 2. Functionality related additions/improvements that need to be incorporated,
