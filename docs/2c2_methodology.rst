@@ -3,10 +3,12 @@ Methodology
 
 KLL will be taking a three-pronged approach in arriving at the requirements of the system. They are briefly decsribed as follows:
 
+
+
 1. User needs assessment
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Through a series of contextual interviews, i.e interviews with real people working on the real problem, as well as focussed group discussions the primary purpose of this exercise is for us to:
+Through a series of contextual interviews as well as focused group discussions the primary purpose of this exercise is for us to:
 
 1. **Test and validate our assumptions about who our end users actually are**.
 
@@ -89,3 +91,8 @@ After this, taking into account our improved understanding of end-users, their i
 2. Functionality related additions/improvements that need to be incorporated,
 
 Results from this exercise will then be passed along to the portal re-design and development phase.
+
+
+**References**
+We'd like to call out the fact that the methodology described in the this section is strongly guided by suggested readings from the `User Interface Design and Implementation <http://web.mit.edu/6.813/www/sp18/>`_
+class at MIT's Human Computer Interaction Department (`hci.mit.edu <hci.mit.edu>`_). This resource has proved to be very valuable in helping us improve our understanding of user centered design, and we highly recommend it to anyone who is interested in learning more.
