@@ -18,11 +18,11 @@ Through a series of contextual interviews, i.e interviews with real people worki
 
   - Where does the demand for this data come from?
   - Where did they look for data in the past?
-  - How do they look for this data? For instance, will mayors and elected representatives that will be doing the 'looking'? Or do they assign someone else (IT/Information officers) to carry out data related tasks for them?
+  - How do they look for this data? For instance, is it really mayors and elected representatives that will be doing the 'looking'? Or do they assign someone else (IT/Information officers) to carry out data related tasks for them?
   - Why are they looking for data in the first place?
 
-    - is it for planning of regional projects such as WASH and literacy programs.
-    - is it because of demand from partner organizations working in the area (Water Aid, GIZ, etc.)
+    - is it for planning of regional projects such as WASH and literacy programs?
+    - is it because of demand from partner organizations working in the area (Water Aid, GIZ, etc.)?
     - is it based on internal local governance needs, eg. social security disbursal, identification of earthquake victims that the survey left out?
     - is it all of the above?
 
@@ -46,7 +46,7 @@ Through a series of contextual interviews, i.e interviews with real people worki
 2. Heuristic evaluation of the existing user interface
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The evaluation exercise is intended to identify and assess problems with the existing user interface. It is hoped that learnings from the user sense-making exercise will pave way for a thorough heuristic evaluation of the currently existing portal on the following three dimensions:
+The evaluation exercise is intended to identify and assess problems with the existing user interface. It is hoped that learnings from the user sense-making exercise will pave way for a thorough heuristic evaluation of the currently existing portal across the following three dimensions:
 
 1. **Learnability**: This refers to an assessment of how easy or difficult it is for identified user groups to learn how to use the system. We will be looking at things like:
 
@@ -57,31 +57,31 @@ The evaluation exercise is intended to identify and assess problems with the exi
   - What mechanism does the platform provide the users for seeking help? How reliable/accurate is it?
 
 
-2. **Efficiency**: This refers to an assessment of how quickly can a user arrive at what he wants from the system:
+2. **Efficiency**: This refers to an assessment of how quickly a user can arrive at what he wants from the system:
 
-  - Is it easy to move to different pages, different areas of pages and different state of the application?
+  - Is it easy to move to different pages, different areas of pages and different states of the application?
   - How much difference in time does it take for an experienced user to arrive at what is required as opposed to an inexperienced user?
-  - Are there automated actions running behind to reduce the users cognitive load, letting the user to work just on high level tasks? Are they required for this platform?
+  - Are there automated actions running behind to reduce the users cognitive load, letting the user work just on high level tasks? Are they required for this platform?
 
 3. **Safety**: This refers to an assessment of error prone areas of the interface. Things like, but not limited to:
 
   - Do errors have a consistent behavior?
   - Does the user always know when anything unexpected or unusual happens?
-  - Are there appropriate messages or dialog box?
+  - Are there appropriate messages or dialog boxes?
   - Are suggestions and errors in plain language?
 
 
-Note: The evaluation process can run in parallel to the user sensemaking exercise. During contextual interviews with different potential end-users, we have also tried to encourage the end-user to get a feel for the system by actually using it. These observations have been thoroughly captured in detail the field notes.
+Note: The evaluation process can run in parallel to the user sense-making exercise. During contextual interviews with different potential end-users, we have also tried to encourage the end-user to get a feel for the system by actually using it. These observations have been thoroughly captured in detail the field notes.
 
 3. Consolidation and translation into system needs.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-After the completion of the user sense-making and the interface evaluation phase, KLL will be working to consolidate all the feedback and inputs received from multiple sources, which comprise of, and is not be limited to:
+After the completion of the user sense-making and the interface evaluation phase, KLL will be working to consolidate all the feedback and inputs received from multiple sources, which comprise of, and is not limited to:
 
-1. Contextual interviews and focused group discussions in the user sense-making stage,
+1. Contextual interviews and focused group discussions in the user sense-making stage.
 2. Results from the heuristic evaluation exercise.
 3. Feedback received when demonstrating the tool to different end users.
-4. Messages received directly through the app through FB Messenger.
+4. Messages received directly through the app through our inbuilt Facebook Messenger integration.
 
 After this, taking into account our improved understanding of end-users, their informational needs, as well as technical abilities, we will work on identifying:
 

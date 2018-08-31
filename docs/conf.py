@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Open Data Portal - Phase II'
-copyright = u'2018, Arogya Koirala'
-author = u'Arogya Koirala'
+copyright = u'2018, Kathmandu Living Labs'
+author = u'Kathmandu Living Labs'
 
 # The short X.Y version
 version = u''
@@ -134,7 +134,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'OpenDataPortal-PhaseII.tex', u'Open Data Portal - Phase II Documentation',
-     u'Arogya Koirala', 'manual'),
+     u'Kathmandu Living Labs', 'manual'),
 ]
 
 
