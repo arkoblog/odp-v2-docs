@@ -1,4 +1,4 @@
-Field Note #6
+Field Note #8
 =============
 
 **Date**: Sep 21, 2018 | **Venue**: GIZ office in Lazimpat, Kathmandu
