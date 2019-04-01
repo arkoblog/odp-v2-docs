@@ -12,7 +12,7 @@ the visualizations on the GENERATE section.
 
 **Progress**
 
-- A basic outline for the proposed PDF report has been developed. This can be found `here  <https://drive.google.com/file/d/1ZvcWvISEYpv2KDNIVVG42Vs5mCisRCXD/view?usp=sharing>`_
+- A basic outline for the proposed PDF report has been developed. This can be found `here.  <https://drive.google.com/file/d/1ZvcWvISEYpv2KDNIVVG42Vs5mCisRCXD/view?usp=sharing>`_
 - Work on generating this PDF on-the-fly from the NHRP front-end is currently ongoing.
 
 **To-dos**
